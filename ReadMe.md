@@ -34,28 +34,28 @@ Students by the end of the course will be able to ...
 
 **Class Times:** Monday, Wednesday at 2:45pm–5:30pm (13 class sessions)
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
+| Class | Date | Topic | Assignments
+|:-----:|:----------------------:|:---------------------------------------:| :----: |
 |  1 |  Wed, Oct 21               | [Intro to Deep Learning] |
-|  2 |  Mon, Oct 26               | [What is Neural Network?] |
-|  3 |  Wed, Oct 28               | [Introduction to Keras]  | Quiz 1
+|  2 |  Mon, Oct 26               | [What is a Neural Network?] |
+|  3 |  Wed, Oct 28               | [What is a Neural Network?]  | Quiz 1
 |  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4               | [Deep Learning Glossary] | Due: HW 1
-|  5 |  Mon, Nov 9               | [Convolutional Neural Network] |
-|  6 |  Wed, Nov 11               | [Recurrent Neural Network] [Final Project Kickoff] |
-|  7 |  Mon, Nov 16              | [Keras for Large Datasets] | Quiz 2
-|  8 |  Wed, Nov 18              | [Deep Learning Model Evaluation] | Due: HW 2
-|  9 |  Mon, Nov 23              | [Introduction to Tensorflow 1.X] | Due: Project Proposals
+|  4 |  Wed, Nov 4               | [Introduction to Keras] | 
+|  5 |  Mon, Nov 9               | Backpropagation and Gradient Descent  |
+|  6 |  Wed, Nov 11               | Backpropagation and Gradient Descent  | Due: [Intro to Keras](Lessons/introkeras.md)
+|  7 |  Mon, Nov 16              | Lab Day | Quiz 2
+|  8 |  Wed, Nov 18              | [Intro to CNN's](https://docs.google.com/presentation/d/1fZkrBcY_dzIVP3gPNyQyQUPPu2cqGe2YV0Chjxj8tRU/edit#slide=id.p) | 
+|  9 |  Mon, Nov 23              | [Deep Learning Model Evaluation] | Due: [CNN Practice](Lessons/cnnpractice.md)
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30              | [Hyper parameter opt] | Due: HW 3
-| 11 |  Wed, Dec 2              | [Auto Encoders] | Quiz 3
-| 12 |  Mon, Dec 7              | [More About Tensorflow]|
-| 13 |  Wed, Dec 9                | Final Project Presentations | Due: Final Project
+| 10 |  Mon, Nov 30              | [Introduction to Tensorflow] |
+| 11 |  Wed, Dec 2              | [Hyper parameter opt]| Quiz 3
+| 12 |  Mon, Dec 7              | [Auto Encoders]|
+| 13 |  Wed, Dec 9                | Final Project Presentations | Due: [Final Project](Lessons/finalproject.md)
 
 
 [Intro to Deep Learning]:https://docs.google.com/presentation/d/1vxQ_R8-gEtR896EoC1_ObSKoWJZje40H8wcXzdltjpo/edit#slide=id.g9e8c78a5a9_0_81
 [Array and matrix manipulation]:Lessons/Arrayandmatrixmanipulation.md
-[What is Neural Network?]: Lessons/WhatisNeuralNetwork.md
+[What is a Neural Network?]: Lessons/WhatisNeuralNetwork.md
 [Introduction to Keras]: Lessons/IntroductiontoKeras.md
 [Deep Learning Glossary]: Lessons/DeepLearningGlossary.md
 [Convolutional Neural Network]: Lessons/ConvolutionalNeuralNetwork.md
@@ -71,11 +71,15 @@ Students by the end of the course will be able to ...
 
 To pass this course you must meet the following requirements:
 
-- Pass all required tutorials and projects (see associated rubrics)
-- Pass all quizzes
+- Pass all required tutorials and projects (rubrics on assignment pages)
+    - Intro to Keras
+    - CNN practice
+    - Final Data Analysis Project
+- Pass all 3 quizzes with a 70% or higher
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 - If an assignment is not passing you have 1 week to make any necessary fixes and resubmit for full points
+- You can drop one project or quiz 
 
 ##  Information Resources
 
